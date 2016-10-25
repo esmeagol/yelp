@@ -7,22 +7,11 @@ Completed user stories:
     Search results page
     [x]   Table rows should be dynamic height according to the content height.
     [x]   Custom cells should have the proper Auto Layout constraints.
-    [x]   Search bar should be in the navigation bar (doesn't have to expand to show location like the real Yelp app does).
 
     Filter page
         [x]   category    
-        [x]   sort (best match, distance, highest rated)
-        [x]   distance
-        [x]   deals (on/off)
 
     [x] Clicking on the "Search" button should dismiss the filters page and trigger the search w/ the new filter settings.
-
-User stories not completed:
-    [x]    Optional: Distance filter should expand as in the real Yelp app.
-    [x]    Optional: Categories should show a subset of the full list with a "See All" row to expand.
-    [x]    Optional: Implement the restaurant detail page.
-    [x]   Optional: Infinite scroll for restaurant results
-    [x]   Optional: Implement map view of restaurant results
 
 ## Video Walkthrough 
 
