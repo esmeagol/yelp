@@ -14,7 +14,6 @@ Completed user stories:
         [x]   sort (best match, distance, highest rated)
         [x]   distance
         [x]   deals (on/off)
-        [x]   The filters table should be organized into sections as in the mock.
 
     [x] Clicking on the "Search" button should dismiss the filters page and trigger the search w/ the new filter settings.
 
@@ -29,7 +28,7 @@ User stories not completed:
 
 Walkthrough of all user stories:
 
-<img src='http://i.imgur.com/<image_id>.gif' 'title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/BmJlTL8.gif' 'title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
